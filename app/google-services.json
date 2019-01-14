@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "142217553141",
+    "firebase_url": "https://mychatapp-bcb7a.firebaseio.com",
+    "project_id": "mychatapp-bcb7a",
+    "storage_bucket": "mychatapp-bcb7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142217553141:android:232927cb26580973",
+        "android_client_info": {
+          "package_name": "com.theagrim.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142217553141-bt357hlmrgrrmgjljprg4s2e1nk5mvg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeYhSifDZQeYytlklZOHdN-YQOotUaBvk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
